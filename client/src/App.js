@@ -3,6 +3,7 @@ import logo from './logo.svg';
 import './App.css';
 import SongForm from './components/SongForm'
 import { Container, Header } from 'semantic-ui-react';
+import SongList from './components/SongList';
 
 class App extends Component {
   render() {
